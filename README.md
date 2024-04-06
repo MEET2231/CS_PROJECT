@@ -6,12 +6,8 @@ This project implements a chat room application in Python using various technolo
 
 - [Description](#description)
 - [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installing](#installing)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
+    
 
 ## Description
 
