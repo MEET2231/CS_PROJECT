@@ -22,3 +22,12 @@ This project aims to create a chat room where users can communicate in real-time
 - Flask
 - HTML
 - CSS
+
+## Contributors
+
+- Meet Modi - 202351083
+- Dhyey Raval - 202351033
+- Tushar Shukla - 202351149
+- Lakshya Jangid - 202351075
+- Dev Saraswat - 202352309
+
