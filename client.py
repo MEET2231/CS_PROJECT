@@ -1,8 +1,7 @@
 import socket
 import threading
 
-# Server configuration
-HOST = '192.168.8.73'  # Replace with the server's intranet IP address
+HOST = '192.168.8.245' 
 PORT = 55555
 
 # Function to handle receiving messages from the server

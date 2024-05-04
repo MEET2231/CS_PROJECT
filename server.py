@@ -20,10 +20,12 @@ def handle_client(client, username):
         try:
             # Receive message from client
             message = client.recv(1024).decode('utf-8')
+            print(f"{username}:{message}")
             broadcast(message, username)
         except:
             # If an error occurs or client disconnects, remove the client
             del clients[username]
+            print(f"{clients[username]} left the chat." )
             client.close()
             break
 
